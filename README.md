@@ -273,5 +273,4 @@ bash ncaaprojectcleanup.sh
 
 ### **Future Enhancements**
 1. Automating the creation of VPCs/networking infra, media endpoint
-#   N C A A - G a m e H i g h l i g h t s  
- 
+#
